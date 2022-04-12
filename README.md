@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>
+  <code> Hello, World! </code>
+</h1>
+
+<div>
+    <a href="https://www.linkedin.com/in/fernando-monteiro-5845bb214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fprompto&show_icons=true&theme=midnight-purple) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fprompto&layout=demo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
