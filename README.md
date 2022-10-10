@@ -2,8 +2,6 @@
   <code> Hello, World! </code>
 </h1>
 
-- I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
-
 <div>
   <a href="https://www.linkedin.com/in/fernando-monteiro-5845bb214/">
     <img
