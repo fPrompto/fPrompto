@@ -2,6 +2,8 @@
   <code> Hello, World! </code>
 </h1>
 
+Email: fernando.monteiro.f11@gmail.com
+
 <div>
   <a href="https://www.linkedin.com/in/fernando-monteiro-5845bb214/">
     <img
