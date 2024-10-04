@@ -2,6 +2,13 @@
   <code> Hello, World! </code>
 </h1>
 
+Sou um desenvolvedor fullstack atualmente cursando Ciência da Computação e tenho experiência prática em várias linguagens de programação, incluindo JavaScript, HTML, CSS, React, Node.js, TypeScript e Express.js.
+
+Estou dedicado a aprender novas tecnologias e habilidades e estou animado para contribuir em projetos significativos. Tenho um forte interesse em tecnologias front-end e back-end e estou sempre em busca de desafios interessantes para desenvolver minhas habilidades.
+
+Se você estiver interessado em discutir oportunidades ou compartilhar conhecimento em desenvolvimento fullstack, não hesite em entrar em contato.
+
+
 Email: fernando.monteiro.f11@gmail.com
 
 <div>
