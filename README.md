@@ -37,8 +37,18 @@ Email: fernando.monteiro.f11@gmail.com
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-082135?style=for-the-badge&logo=Docker&logoColor=blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fprompto&show_icons=true&theme=midnight-purple) &nbsp;
+<div>
+  <a href="https://github.com/fPrompto">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" /> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=car0l15&theme=dracula" alt="car0l15" />
+
+  </a>
+</div>
+
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fprompto&show_icons=true&theme=midnight-purple) &nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fprompto&layout=demo&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
