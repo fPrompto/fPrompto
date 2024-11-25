@@ -40,8 +40,8 @@ Email: fernando.monteiro.f11@gmail.com
 <div>
   <a href="https://github.com/fPrompto">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=car0l15&count_private=true&theme=dracula&include_all_commits=true" /> -->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=car0l15&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=car0l15&theme=dracula" alt="car0l15" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fPrompto&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=fPrompto&theme=dracula" alt="car0l15" />
 
   </a>
 </div>
